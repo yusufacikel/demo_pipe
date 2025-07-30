@@ -3,11 +3,11 @@ Requires Python version 3.9, 3.10, 3.11, or 3.12.
 
 Clone the repository:
 ```bash
-git clone https://github.com/yusufacikel/demo-pipe.git
+git clone https://github.com/yusufacikel/demo_pipe.git
 ```
 Change directory:
 ```bash
-cd demo_pipe_sofe
+cd demo_pipe
 ```
 ## For Linux users:
 Make the setup script executable and run it:
