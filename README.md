@@ -1,4 +1,4 @@
-# demo_pipe: RGB-D Visual Odometry & Mapping in Confined Pipe Environments
+# demo_pipe:  Feature-Based Visual Odometry and RGB-D Mapping in Confined Pipe Environments
 
 This project explores the feasibility of using **RGB-D cameras** for **visual odometry** and **3D reconstruction** inside **confined pipe environments** representative of the **EU-DEMO fusion reactor**.  
 It demonstrates systematic depth correction, feature-based pose estimation, and 3D mapping in challenging in-bore scenarios.  
