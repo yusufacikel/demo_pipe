@@ -3,7 +3,7 @@
 This project explores the feasibility of using **RGB-D cameras** for **visual odometry** and **3D reconstruction** inside **confined pipe environments** representative of the **EU-DEMO fusion reactor**.  
 It demonstrates systematic depth correction, feature-based pose estimation, and 3D mapping in challenging in-bore scenarios.  
 
-**Read more:** [Thesis (PDF)](Yusuf_Acikel_thesis_IFL_final.pdf) | IEEE Paper (coming soon)
+**Read more:** [Thesis (PDF)](Yusuf_Acikel_thesis_IFL_final.pdf) | [Publication (PDF)](Azman_Azka___IEEE_SOFE_2025.pdf)
 
 
 <p align="center">
