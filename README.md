@@ -43,7 +43,7 @@ It demonstrates systematic depth correction, feature-based pose estimation, and 
 
 
 
-## ⚙️ Project Setup
+## Project Setup
 
 > Requires **Python 3.9–3.12**
 
